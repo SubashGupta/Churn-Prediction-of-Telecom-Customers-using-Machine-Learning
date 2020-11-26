@@ -1,7 +1,7 @@
 # Churn-Prediction-of-Telecom-Customers-using-Machine-Learning
 [![HitCount](http://hits.dwyl.com/koushik2001/COVID-19-Face-Mask-Detector-with-OpenCV-and-Deep-Learning.svg)](http://hits.dwyl.com/koushik2001/COVID-19-Face-Mask-Detector-with-OpenCV-and-Deep-Learning)
 
-#### This project aims to build a predictive model to identify the Churn of the customer using the service of a Telecom company. The idea is to find out the factors in the service which influence most of the customers to churn. So the companies improve their services and retain their customers.
+#### This project aims to build a predictive model to predict the attrition of customers so that it would be helpful to the companies to find the customers who are more likely to unsubscribe from a service that helps the company to retain them rather than losing.
 
 ### Languages/frameworks used
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Sklearn%20-%234c4c4c.svg?&style=for-the-badge&logo=scikit-learn&logoColor=orange"/> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> ![Plotly](https://img.shields.io/badge/Plotly-49587c.svg?&style=for-the-badge&logo=power-bi&logoColor=white) <img src="https://img.shields.io/badge/Colab%20-%23FFDF00.svg?&style=for-the-badge&logo=Google&logoColor=000000"/> 
