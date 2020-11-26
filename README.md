@@ -12,3 +12,10 @@ The dataset used can be downloaded here - [![Kaggle Badge](https://img.shields.i
 This dataset consists of __7043 rows and 21 columns__ belonging to two classes:
 *	__Churn: 1869 rows__
 *	__Not Churn: 5174 rows__
+
+
+### Proposed Architecture:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github.com/koushik2001/Churn-Prediction-of-Telecom-Customers-using-Machine-Learning/blob/main/Docs1/architecture.png)
+
+### :arrow_forward: Visualizations
