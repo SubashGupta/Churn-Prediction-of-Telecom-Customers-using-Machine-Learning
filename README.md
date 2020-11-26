@@ -26,4 +26,19 @@ This dataset consists of __7043 rows and 21 columns__ belonging to two classes:
     <td> <img src="https://github.com/koushik2001/Churn-Prediction-of-Telecom-Customers-using-Machine-Learning/blob/main/Docs1/github2.PNG" width="500" height="300">
   </tr>
  </table>
+ <table>
+  <tr>
+    <td><img src="https://github.com/koushik2001/Churn-Prediction-of-Telecom-Customers-using-Machine-Learning/blob/main/Docs1/github3.PNG" width="500" height="300">
+    <td> <img src="https://github.com/koushik2001/Churn-Prediction-of-Telecom-Customers-using-Machine-Learning/blob/main/Docs1/github4.PNG" width="500" height="300">
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td><img src="https://github.com/koushik2001/Churn-Prediction-of-Telecom-Customers-using-Machine-Learning/blob/main/Docs1/github5.PNG" width="500" height="300">
+    <td> <img src="https://github.com/koushik2001/Churn-Prediction-of-Telecom-Customers-using-Machine-Learning/blob/main/Docs1/github6.PNG" width="500" height="300">
+  </tr>
+ </table>
+ 
+ ### :key: Results
+<img src="https://github.com/koushik2001/Churn-Prediction-of-Telecom-Customers-using-Machine-Learning/blob/main/Docs1/github7.PNG" width="600" height="500">
 
