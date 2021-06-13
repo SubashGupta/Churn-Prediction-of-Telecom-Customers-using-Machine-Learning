@@ -1,5 +1,5 @@
 # Churn-Prediction-of-Telecom-Customers-using-Machine-Learning
-[![HitCount](http://hits.dwyl.com/koushik2001/COVID-19-Face-Mask-Detector-with-OpenCV-and-Deep-Learning.svg)](http://hits.dwyl.com/koushik2001/COVID-19-Face-Mask-Detector-with-OpenCV-and-Deep-Learning)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoushik2001%2FChurn-Prediction-of-Telecom-Customers-using-Machine-Learning&count_bg=%233DA7C8&title_bg=%232FA1A5&icon=&icon_color=%23F4F0F0&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 #### This project aims to build a predictive model to predict the attrition of customers so that it would be helpful to the companies to find the customers who are more likely to unsubscribe from a service that helps the company to retain them rather than losing.
 
